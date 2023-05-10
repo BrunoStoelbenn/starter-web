@@ -15,6 +15,8 @@ Este é um projeto web simples, Implantação pode estar em qualquer servidor we
 
 ##How To Contribute
 
+plase fork this repository and then issue Pull requests for review.
+
 ### Copyright
 
 2023 Git.Training.
