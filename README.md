@@ -14,3 +14,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 Este é um projeto web simples, Implantação pode estar em qualquer servidor web ou até em um sistema de arquivo local.
 
 ##How To Contribute
+
+### Copyright
+
+2023 Git.Training.
