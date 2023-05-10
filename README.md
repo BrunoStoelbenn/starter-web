@@ -1,7 +1,7 @@
 # Starter Web Project
 
 Este é um projeto de site simples que mostra como usar o Git e o Github juntos.
-Adding a line for rebasing examplo, them more changes from myfreature branch too.
+Github together. Updating for emergency fix after our stash
 
 ##Introduction
 
